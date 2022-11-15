@@ -1,0 +1,21 @@
+/* For navbar */
+.navbar{
+    background-color: #1746A2;
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #f6faff !important;
+}
+.nav-link:focus, .nav-link:hover {
+   background-color: #009cff;
+   color: #f6faff !important;
+    border-bottom: 1px solid #FFF;
+}
+
+    .icons
+		{
+			width: 100px;
+			
+		}
+

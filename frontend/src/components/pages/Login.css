@@ -1,0 +1,19 @@
+.text_blue{
+    color: #466eff;
+}
+.register_text{
+    font-size: 13px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.register_text:hover{
+    text-decoration: underline;
+}
+.login_form{
+    margin-top: 92px;
+ 
+}
+.login_form  .modal-dialog{
+    
+  box-shadow: 0 0 40px rgba(8,7,16,0.6);
+}
